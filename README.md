@@ -1,2 +1,0 @@
-# SQLplayer
-My project 
